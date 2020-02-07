@@ -1,0 +1,4 @@
+hosname: cs5200-spring2020-jin.cparjdavcbcl.us-east-2.rds.amazonaws.com
+username: jinyaoyu
+password: jyy314159
+port: 3306
